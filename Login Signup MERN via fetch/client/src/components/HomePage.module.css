@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 89vh;
+  background-color: #f0f4f8;
+  color: #333;
+}
+
+h1 {
+  color: #007bff;
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+  margin: 10px;
+  font-size: 18px;
+}
+
+a:hover {
+  text-decoration: underline;
+}
